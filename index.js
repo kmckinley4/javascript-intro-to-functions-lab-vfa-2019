@@ -7,7 +7,7 @@ function whisper(string) {
 }
 
 function logShout(spy = "HELLO") {
-  return "hello"
+  Please write better instructions... this did not make sense
 }
 
 function sayHiToGrandma(string) {
